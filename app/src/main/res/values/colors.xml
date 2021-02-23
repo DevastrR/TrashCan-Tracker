@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cccccc</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#db5865</color>
+    <color name="background_dashboard">#f2edf2</color>
+    <color name="add_icon">#ffcc00</color>
+    <color name="white_off">#000000</color>
+    <color name="white">#ffffff</color>
+
+
+    <!-- third section -->
+    <color name="univ_color">#f7a848</color>
+    <color name="boy_color">#7b82ba</color>
+    <color name="girl_color">#bd78d6</color>
+    <color name="food_color">#db5865</color>
+
+
+    <!-- Recyclerview cards -->
+    <color name="background_cards">#f7e6f4</color>
+    <color name="background_cards_darker">#f5dcf0</color>
+    <color name="title_cars">#946b99</color>
+    <color name="brief_color">#d0a3d6</color>
+    <color name="dark_yellow">#ffe240</color>
+    <color name="light_yellow">#faeb96</color>
+    <color name="red">#d60f3d</color>
+    <color name="light_red">#ed829b</color>
+    <color name="purple">#642B73</color>
+
+    <!-- Complaints -->
+    <color name="complaints_heading">#ed930c</color>
+    <color name="light_green">#a3e3b4</color>
+    <color name="dark_green">#75c98b</color>
+    <color name="dark_purple">#b170c4</color>
+    <color name="light_purple">#d5a3e3</color>
+    <color name="reddish_light">#e8acbd</color>
+    <color name="reddish_dark">#e6678b</color>
+    <color name="light_blue">#99adde</color>
+    <color name="dark_blue">#7e9ce6</color>
+
+    <!-- login -->
+    <color name="background">#f0ba32</color>
+</resources>

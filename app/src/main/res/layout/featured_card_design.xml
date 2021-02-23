@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="154dp"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    cardCornerRadius="5dp"
+    app:cardElevation="9dp"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:background="#d6d2d2"
+        android:padding="12dp"
+        android:paddingTop="10dp">
+        <ImageView
+            android:id="@+id/card_image_1"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/campus2"/>
+
+        <TextView
+            android:id="@+id/card_image_1_heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="VIT Campus"
+            android:textColor="@color/white_off"
+            android:textSize="20dp" />
+        <RatingBar
+            android:id="@+id/card_image_1_rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rating="4"
+            style="@style/Widget.AppCompat.RatingBar.Small"/>
+        <TextView
+            android:id="@+id/card_image_1_brief"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text = "Parking lot and Main campus Gate 2 cleaned  "/>
+
+        
+        
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

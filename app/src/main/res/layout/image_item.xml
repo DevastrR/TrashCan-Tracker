@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:padding="5dp"
+    android:elevation="16dp"
+    app:cardCornerRadius="30dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:background="@color/background_dashboard"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/textViewHeading"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:background="@color/reddish_dark"
+            android:text="Badminton Court Sewer leakage "
+            android:textColor="@color/white"
+
+            android:textSize="22dp" />
+        <TextView
+            android:id="@+id/textViewDescription"
+            android:layout_width="170dp"
+            android:layout_height="match_parent"
+            android:padding="15dp"
+            android:background="@color/reddish_light"
+            android:text="Badminton Court is smeeling bad from past 3 weeks . Authorities have not done anything yet . Also , Mosquitoes is breeding there "
+            android:textSize="12dp"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

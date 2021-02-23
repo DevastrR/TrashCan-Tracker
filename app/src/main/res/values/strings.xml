@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">tracker</string>
+    <string name="headline">Get To Bin</string>
+    <string name="campus">Campus</string>
+    <string name="ub">U.Belly</string>
+    <string name="boys">B.Hostel</string>
+    <string name="girls">G.Hostel</string>
+    <string name="most_dirty_location"> Clean Movement Goals </string>
+    <string name="location_brief"> Our objective is to clean campus and provide hygienic environment for Everyone !  </string>
+    <string name="complaints">Complaints</string>
+    <string name="code"> Co\nde</string>
+    <string name="verification">Verification</string>
+    <string name="otp_description">Enter One Time Password sent on +919995554444</string>
+
+    <!-- dashboard drawer -->
+    <string name="Home">Home</string>
+    <string name="Logout">Logout</string>
+    <string name="Report">Report</string>
+    <string name="Maps">Maps</string>
+
+</resources>
