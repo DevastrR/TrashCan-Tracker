@@ -1,2 +1,2 @@
 # TrashCan-Tracker
-An android mobile Application for waste management that utilizes GPS tracking systems for keeping surroundings clean and healthy by tracking down closest Dustbin (or Trashcan).
+An android mobile Application for waste management utilizes GPS tracking systems to keep surroundings clean and healthy by tracking down the closest Dustbin (or Trashcan).
